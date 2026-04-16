@@ -26,28 +26,26 @@ Each task includes:
 
 ## Project Structure
 
-COMP8090SEF_Project  
-│  
-├── Task1  
-│   ├── course.py  
-│   ├── main.py  
-│   ├── manager.py  
-│   ├── person.py  
-│   ├── student.py  
-│   ├── utils.py  
-│   ├── README.md  
-│   └── (Report located in root directory)  
-│  
-├── Task2  
-│   ├── dijkstra.py  
-│   ├── main.py  
-│   ├── priority_queue.py  
-│   ├── README.md  
-│   └── (Report located in root directory)  
-│  
-├── Task_1_Report_YUE_XIAOBO_13808099.pdf  
-├── Task_2_Report_YUE_XIAOBO_13808099.pdf  
-├── README.md  
+COMP8090SEF_Project
+│
+├── Task1
+│   ├── course.py
+│   ├── main.py
+│   ├── manager.py
+│   ├── person.py
+│   ├── student.py
+│   ├── utils.py
+│   └── README.md
+│
+├── Task2
+│   ├── dijkstra.py
+│   ├── main.py
+│   ├── priority_queue.py
+│   └── README.md
+│
+├── Task_1_Report_YUE_XIAOBO_13808099.pdf
+├── Task_2_Report_YUE_XIAOBO_13808099.pdf
+└── README.md
 
 ---
 
@@ -73,8 +71,12 @@ https://drive.google.com/file/d/1EcWL4TVZ1K3Du0CN8C06SGJoFk_vVzWv/view?usp=drive
 ### Task 1
 Navigate to the Task1 folder and run:
 
+python main.py
+
 ### Task 2
 Navigate to the Task2 folder and run:
+
+python main.py
 
 
 ---
