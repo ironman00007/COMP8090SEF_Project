@@ -1,9 +1,28 @@
 # Task 1
 
 ## Description
-This task is part of the COMP8090SEF course project for the course Data Structures and Algorithms.
+This task is part of the COMP8090SEF course project for Data Structures and Algorithms.
 
-This repository contains the final implementation for Task 1.
+This task implements a student management system using object-oriented programming.
+
+## Features
+- Add, remove, and update student records
+- Manage course information
+- Object-oriented design with multiple classes
+
+## Files
+- course.py: Course-related operations
+- main.py: Program entry point
+- manager.py: Core management logic
+- person.py: Base class definition
+- student.py: Student class implementation
+- utils.py: Utility functions
+
+## How to Run
+Navigate to the Task1 folder and run:
+
+```bash
+python main.py
 
 ## Author
 Name: YUE XIAOBO  
