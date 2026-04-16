@@ -21,6 +21,7 @@ Navigate to the Task2 folder and run:
 
 ```bash
 python main.py
+```
 
 ## Author
 Name: YUE XIAOBO  
@@ -28,12 +29,3 @@ Student ID: 13808099
 
 ## Notes
 This is the final submission. All functionalities have been fully implemented and tested with sample data.
-
-## Links
-- GitHub Repository: 
-https://github.com/ironman00007/COMP8090SEF_Project
-
-- Video Demonstration: 
-https://drive.google.com/file/d/1EcWL4TVZ1K3Du0CN8C06SGJoFk_vVzWv/view?usp=drive_link
-
-
