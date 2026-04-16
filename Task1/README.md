@@ -10,7 +10,7 @@ Name: YUE XIAOBO
 Student ID: 13808099
 
 ## Notes
-This is a preliminary submission. The code and documentation will be further updated before the final submission.
+This is the final submission. The system has been fully implemented using object-oriented programming and tested with sample data.
 
 ## Links
 GitHub Repository Link:
