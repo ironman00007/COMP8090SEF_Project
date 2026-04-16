@@ -26,6 +26,7 @@ Each task includes:
 
 ## Project Structure
 
+```
 COMP8090SEF_Project
 │
 ├── Task1
@@ -46,6 +47,7 @@ COMP8090SEF_Project
 ├── Task_1_Report_YUE_XIAOBO_13808099.pdf
 ├── Task_2_Report_YUE_XIAOBO_13808099.pdf
 └── README.md
+```
 
 ---
 
