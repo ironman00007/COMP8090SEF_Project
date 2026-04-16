@@ -23,6 +23,7 @@ Navigate to the Task1 folder and run:
 
 ```bash
 python main.py
+```
 
 ## Author
 Name: YUE XIAOBO  
@@ -30,10 +31,3 @@ Student ID: 13808099
 
 ## Notes
 This is the final submission. The system has been fully implemented using object-oriented programming and tested with sample data.
-
-## Links
-GitHub Repository Link:
-https://github.com/ironman00007/COMP8090SEF_Project
-
-Video Demonstration Link: 
-https://drive.google.com/file/d/1zbs_lKP4Dm8Asrk_0b0pGF1aYqmbvsfh/view?usp=drive_link
